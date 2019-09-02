@@ -1,21 +1,25 @@
 - layout: left
   name: Hangzhou Dianzi University
-  dates: 2015.09 - 2019.06
+  # dates: 
   # qualification: 
   # quote: >
     
   description: | # this will include new lines to allow paragraphs
+    2015.09 - 2019.06
+  
     Bachelor Degree
   
     Science and Engineering Excellent class, Zhuoyue Honors College
 
 - layout: left
   name: University of California, Riverside
-  dates: 2018.09 - 2018.12
+  # dates: 
   # qualification: 
   # quote: >
     
   description: | # this will include new lines to allow paragraphs
+    2018.09 - 2018.12
+    
     University Credit Program
   
     Funded by CSC (China Scholarship Council)
