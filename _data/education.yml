@@ -2,8 +2,7 @@
   name: Hangzhou Dianzi University
   dates: 2015 - 2019
   qualification: Bachelor Degree
-  quote: >
-    Science and Engineering Excellent class, Zhuoyue Honors College
+  # quote: >
+    
   description: | # this will include new lines to allow paragraphs
-    Zhejiang Province Government Scholarship
-    First-class Scholarship for three times
+    Science and Engineering Excellent class, Zhuoyue Honors College
