@@ -24,9 +24,7 @@ instagram_username: qyq9792
 # about_title: About Me
 about_profile_image: images/qyq.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <mark>Happy birthday to myself!</mark>
-  
-                          ———— 02/09/2019
+  <mark>Happy birthday to myself!  ———— 02/09/2019</mark> 
 
 # Projects Section
 # projects_title: Projects
@@ -47,10 +45,10 @@ educaton_title: Education
 #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-# footer_show_references: true
+footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
