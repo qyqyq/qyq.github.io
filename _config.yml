@@ -24,7 +24,9 @@ instagram_username: qyq9792
 # about_title: About Me
 about_profile_image: images/qyq.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Happy birthday to myself!   02/09/2019
+  <mark>Happy birthday to myself!<mark/>
+  
+                          ———— 02/09/2019
 
 # Projects Section
 # projects_title: Projects
