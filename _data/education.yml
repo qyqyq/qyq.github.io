@@ -1,4 +1,13 @@
 - layout: left
+  name: The Hong Kong University of Science and Technology
+  # dates: 
+  # qualification: 
+  # quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    09/2019 - present
+
+- layout: left
   name: Hangzhou Dianzi University
   # dates: 
   # qualification: 
